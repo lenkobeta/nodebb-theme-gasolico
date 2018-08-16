@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
+  "name": "nodebb-theme-gasolico",
+  "version": "0.0.1",
+  "description": "Tema Gasólico",
   "main": "theme.less",
   "keywords": [
 
